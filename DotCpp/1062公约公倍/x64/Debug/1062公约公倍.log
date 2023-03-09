@@ -1,0 +1,3 @@
+﻿  1062公约公倍.cpp
+E:\DEMO\C\DotCpp\1062公约公倍\1062公约公倍.cpp(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1062公约公倍.vcxproj -> E:\DEMO\C\DotCpp\1062公约公倍\x64\Debug\1062公约公倍.exe
